@@ -3,8 +3,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mr-adonis-jimenez-chromebook-sales-forecast-dashboard.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mr-adonis-jimenez/chromebook-sales-forecast-dashboard)
 
-An interactive **sales forecasting dashboard** developed using Python and Streamlit.  
-The app forecasts future sales for multiple products using the **Prophet** model, supports **auto-refresh retraining**, and integrates seamlessly with **Google Drive (local sync)**, **OneDrive**, **Dropbox**, **Amazon Drive**, **Mega**, **Nextcloud**, **Seafile**, or **Syncthing**
+An interactive **Chromebook Dashboard** developed using Python and Streamlit. The app forecasts future sales for multiple products using the **Prophet** model, supports **auto-refresh retraining**, and integrates seamlessly with **Google Drive (local sync)**, **OneDrive**, **Dropbox**, **Amazon Drive**, **Mega**, **Nextcloud**, **Seafile**, or **Syncthing**
 
 ---
 

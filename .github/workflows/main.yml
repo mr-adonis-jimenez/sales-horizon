@@ -1,7 +1,1 @@
-git clone https://github.com/mr-adonis-jimenez/sales-horizon.git
 
-cd sales-horizon
-
-pip install -r requirements.txt
-
-streamlit run app.py

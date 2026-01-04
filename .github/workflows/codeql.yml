@@ -18,3 +18,6 @@ jobs:
         uses: github/codeql-action/init@v4
   with:
     languages: javascript
+
+    - name: Claude Code Action Official
+    - uses: anthropics/claude-code-action@v1

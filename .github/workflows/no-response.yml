@@ -13,3 +13,6 @@ closeComment: >
   information that is currently in the issue, we don't have enough information
   to take action. Please reach out if you have or find the answers we need so
   that we can investigate further.
+
+- name: Claude Code Action Official
+- uses: anthropics/claude-code-action@v1

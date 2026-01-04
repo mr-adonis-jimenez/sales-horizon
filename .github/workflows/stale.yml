@@ -33,3 +33,6 @@ unmarkComment: false
 closeComment: false
 # Limit to only `issues` or `pulls`
 only: issues
+
+- name: Claude Code Action Official
+- uses: anthropics/claude-code-action@v1

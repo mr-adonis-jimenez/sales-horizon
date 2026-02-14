@@ -1,28 +1,29 @@
-# 📈 Sales Horizon
+# Sales Horizon
 
 An intuitive sales forecasting dashboard built with Python and Streamlit. Sales Horizon provides powerful time series forecasting capabilities with an easy-to-use interface for visualizing sales trends and predicting future performance.
 
 ## Features
 
 - **Multiple Forecasting Methods**
+  - Prophet (Facebook's advanced time series model)
   - Exponential Smoothing (Holt-Winters)
   - Moving Average
   - Naive Forecasting
 
 - **Interactive Dashboard**
-  - Real-time sales visualization
+  - Real-time sales visualization with Plotly
   - Customizable forecast horizons (7-90 days)
-  - Confidence intervals for predictions
+  - 95% confidence intervals for predictions
   - Historical trend analysis
 
 - **Comprehensive Analytics**
   - Sales distribution analysis
   - Weekly and monthly patterns
   - Forecast accuracy metrics (MAE, RMSE, MAPE)
-  - Residual analysis
+  - Residual analysis with actual vs predicted scatter plots
 
 - **Flexible Data Input**
-  - Generate sample data for testing
+  - Built-in sample data generation for testing
   - Upload your own CSV files
   - Filter by product category and region
 
@@ -34,13 +35,7 @@ An intuitive sales forecasting dashboard built with Python and Streamlit. Sales 
 - pip package manager
 
 ### Setup
-## Run Locally
 
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python -m streamlit run app.py
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/sales-horizon.git
@@ -69,7 +64,7 @@ pip install -r requirements.txt
 
 Start the Streamlit app:
 ```bash
-streamlit run app.py
+streamlit run streamlit-app.py
 ```
 
 The dashboard will open in your default web browser at `http://localhost:8501`
@@ -106,28 +101,27 @@ date,sales,product_category,region
 1. **Exponential Smoothing**: Best for data with trend and seasonality
 2. **Moving Average**: Simple method for stable trends
 3. **Naive Forecast**: Uses last known value as prediction
+4. **Prophet**: Facebook's advanced model with automatic seasonality detection
 
-## Features Explanation
+## Dashboard Tabs
 
-### Dashboard Tabs
-
-#### 📊 Forecast Tab
+### Forecast
 - Visual representation of historical and forecasted sales
 - 95% confidence intervals
 - Forecast summary table
-- Key insights and metrics
+- Key metrics (last actual, avg forecast, trend direction)
 
-#### 📈 Trends Tab
+### Trends
 - Sales distribution histogram
 - Day-of-week analysis
 - Monthly trend visualization
 
-#### 🎯 Accuracy Tab
-- Forecast accuracy metrics
-- Residuals analysis
+### Accuracy
+- Forecast accuracy metrics (MAE, RMSE, MAPE)
 - Actual vs Predicted scatter plot
+- Residuals analysis over time
 
-#### 📋 Data Tab
+### Data
 - View historical data
 - Download data as CSV
-- Data statistics
+- Data statistics summary

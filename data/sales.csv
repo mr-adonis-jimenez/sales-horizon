@@ -1,0 +1,366 @@
+date,sales,product_category,region
+2023-01-01,4170,Electronics,North
+2023-01-02,3288,Clothing,South
+2023-01-03,2712,Home & Garden,East
+2023-01-04,3150,Sports,West
+2023-01-05,3649,Food & Beverage,North
+2023-01-06,3990,Electronics,South
+2023-01-07,3453,Clothing,East
+2023-01-08,2758,Home & Garden,West
+2023-01-09,3086,Sports,North
+2023-01-10,3781,Food & Beverage,South
+2023-01-11,4457,Electronics,East
+2023-01-12,3671,Clothing,West
+2023-01-13,2949,Home & Garden,North
+2023-01-14,3209,Sports,South
+2023-01-15,3716,Food & Beverage,East
+2023-01-16,4297,Electronics,West
+2023-01-17,3600,Clothing,North
+2023-01-18,3102,Home & Garden,South
+2023-01-19,3271,Sports,East
+2023-01-20,3916,Food & Beverage,West
+2023-01-21,4722,Electronics,North
+2023-01-22,3398,Clothing,South
+2023-01-23,2947,Home & Garden,East
+2023-01-24,3409,Sports,West
+2023-01-25,4176,Food & Beverage,North
+2023-01-26,4658,Electronics,South
+2023-01-27,3776,Clothing,East
+2023-01-28,3085,Home & Garden,West
+2023-01-29,3521,Sports,North
+2023-01-30,3900,Food & Beverage,South
+2023-01-31,4922,Electronics,East
+2023-02-01,3538,Clothing,West
+2023-02-02,2757,Home & Garden,North
+2023-02-03,3378,Sports,South
+2023-02-04,4014,Food & Beverage,East
+2023-02-05,5077,Electronics,West
+2023-02-06,3968,Clothing,North
+2023-02-07,3003,Home & Garden,South
+2023-02-08,3659,Sports,East
+2023-02-09,4073,Food & Beverage,West
+2023-02-10,4961,Electronics,North
+2023-02-11,3877,Clothing,South
+2023-02-12,3238,Home & Garden,East
+2023-02-13,3715,Sports,West
+2023-02-14,4439,Food & Beverage,North
+2023-02-15,5134,Electronics,South
+2023-02-16,4096,Clothing,East
+2023-02-17,3338,Home & Garden,West
+2023-02-18,3554,Sports,North
+2023-02-19,4261,Food & Beverage,South
+2023-02-20,5038,Electronics,East
+2023-02-21,4129,Clothing,West
+2023-02-22,3287,Home & Garden,North
+2023-02-23,4050,Sports,South
+2023-02-24,4303,Food & Beverage,East
+2023-02-25,4975,Electronics,West
+2023-02-26,4228,Clothing,North
+2023-02-27,3556,Home & Garden,South
+2023-02-28,3822,Sports,East
+2023-03-01,4657,Food & Beverage,West
+2023-03-02,5569,Electronics,North
+2023-03-03,4134,Clothing,South
+2023-03-04,3211,Home & Garden,East
+2023-03-05,3709,Sports,West
+2023-03-06,4728,Food & Beverage,North
+2023-03-07,5023,Electronics,South
+2023-03-08,4199,Clothing,East
+2023-03-09,3472,Home & Garden,West
+2023-03-10,3779,Sports,North
+2023-03-11,4731,Food & Beverage,South
+2023-03-12,5498,Electronics,East
+2023-03-13,4615,Clothing,West
+2023-03-14,3552,Home & Garden,North
+2023-03-15,3768,Sports,South
+2023-03-16,4537,Food & Beverage,East
+2023-03-17,5245,Electronics,West
+2023-03-18,4421,Clothing,North
+2023-03-19,3417,Home & Garden,South
+2023-03-20,3876,Sports,East
+2023-03-21,4805,Food & Beverage,West
+2023-03-22,5302,Electronics,North
+2023-03-23,4242,Clothing,South
+2023-03-24,3265,Home & Garden,East
+2023-03-25,3746,Sports,West
+2023-03-26,4592,Food & Beverage,North
+2023-03-27,5569,Electronics,South
+2023-03-28,4508,Clothing,East
+2023-03-29,3527,Home & Garden,West
+2023-03-30,3964,Sports,North
+2023-03-31,4743,Food & Beverage,South
+2023-04-01,5730,Electronics,East
+2023-04-02,4473,Clothing,West
+2023-04-03,3577,Home & Garden,North
+2023-04-04,3784,Sports,South
+2023-04-05,4887,Food & Beverage,East
+2023-04-06,5594,Electronics,West
+2023-04-07,4536,Clothing,North
+2023-04-08,3542,Home & Garden,South
+2023-04-09,4234,Sports,East
+2023-04-10,4665,Food & Beverage,West
+2023-04-11,5853,Electronics,North
+2023-04-12,4355,Clothing,South
+2023-04-13,3477,Home & Garden,East
+2023-04-14,3771,Sports,West
+2023-04-15,4701,Food & Beverage,North
+2023-04-16,5814,Electronics,South
+2023-04-17,4466,Clothing,East
+2023-04-18,3636,Home & Garden,West
+2023-04-19,3579,Sports,North
+2023-04-20,4848,Food & Beverage,South
+2023-04-21,5621,Electronics,East
+2023-04-22,4231,Clothing,West
+2023-04-23,3449,Home & Garden,North
+2023-04-24,3924,Sports,South
+2023-04-25,5016,Food & Beverage,East
+2023-04-26,5264,Electronics,West
+2023-04-27,4236,Clothing,North
+2023-04-28,3704,Home & Garden,South
+2023-04-29,3841,Sports,East
+2023-04-30,4619,Food & Beverage,West
+2023-05-01,5481,Electronics,North
+2023-05-02,4081,Clothing,South
+2023-05-03,3532,Home & Garden,East
+2023-05-04,3705,Sports,West
+2023-05-05,4818,Food & Beverage,North
+2023-05-06,5428,Electronics,South
+2023-05-07,4636,Clothing,East
+2023-05-08,3518,Home & Garden,West
+2023-05-09,4066,Sports,North
+2023-05-10,4392,Food & Beverage,South
+2023-05-11,5363,Electronics,East
+2023-05-12,4281,Clothing,West
+2023-05-13,3689,Home & Garden,North
+2023-05-14,3578,Sports,South
+2023-05-15,4767,Food & Beverage,East
+2023-05-16,5468,Electronics,West
+2023-05-17,4444,Clothing,North
+2023-05-18,3519,Home & Garden,South
+2023-05-19,3804,Sports,East
+2023-05-20,4452,Food & Beverage,West
+2023-05-21,5031,Electronics,North
+2023-05-22,4183,Clothing,South
+2023-05-23,3363,Home & Garden,East
+2023-05-24,4061,Sports,West
+2023-05-25,4389,Food & Beverage,North
+2023-05-26,5305,Electronics,South
+2023-05-27,3847,Clothing,East
+2023-05-28,3299,Home & Garden,West
+2023-05-29,3755,Sports,North
+2023-05-30,4597,Food & Beverage,South
+2023-05-31,5481,Electronics,East
+2023-06-01,4051,Clothing,West
+2023-06-02,3161,Home & Garden,North
+2023-06-03,3739,Sports,South
+2023-06-04,4487,Food & Beverage,East
+2023-06-05,5216,Electronics,West
+2023-06-06,3891,Clothing,North
+2023-06-07,3422,Home & Garden,South
+2023-06-08,3636,Sports,East
+2023-06-09,4462,Food & Beverage,West
+2023-06-10,5312,Electronics,North
+2023-06-11,4053,Clothing,South
+2023-06-12,3264,Home & Garden,East
+2023-06-13,3896,Sports,West
+2023-06-14,4319,Food & Beverage,North
+2023-06-15,4911,Electronics,South
+2023-06-16,3915,Clothing,East
+2023-06-17,3379,Home & Garden,West
+2023-06-18,3539,Sports,North
+2023-06-19,4306,Food & Beverage,South
+2023-06-20,5151,Electronics,East
+2023-06-21,3754,Clothing,West
+2023-06-22,2898,Home & Garden,North
+2023-06-23,3513,Sports,South
+2023-06-24,4190,Food & Beverage,East
+2023-06-25,4698,Electronics,West
+2023-06-26,3923,Clothing,North
+2023-06-27,3164,Home & Garden,South
+2023-06-28,3265,Sports,East
+2023-06-29,4177,Food & Beverage,West
+2023-06-30,4708,Electronics,North
+2023-07-01,3475,Clothing,South
+2023-07-02,3095,Home & Garden,East
+2023-07-03,3353,Sports,West
+2023-07-04,3884,Food & Beverage,North
+2023-07-05,4783,Electronics,South
+2023-07-06,3740,Clothing,East
+2023-07-07,2906,Home & Garden,West
+2023-07-08,3365,Sports,North
+2023-07-09,4136,Food & Beverage,South
+2023-07-10,4447,Electronics,East
+2023-07-11,3663,Clothing,West
+2023-07-12,2936,Home & Garden,North
+2023-07-13,3591,Sports,South
+2023-07-14,3553,Food & Beverage,East
+2023-07-15,4668,Electronics,West
+2023-07-16,3491,Clothing,North
+2023-07-17,2874,Home & Garden,South
+2023-07-18,3483,Sports,East
+2023-07-19,3824,Food & Beverage,West
+2023-07-20,4919,Electronics,North
+2023-07-21,3411,Clothing,South
+2023-07-22,2889,Home & Garden,East
+2023-07-23,3073,Sports,West
+2023-07-24,3640,Food & Beverage,North
+2023-07-25,4391,Electronics,South
+2023-07-26,3382,Clothing,East
+2023-07-27,2824,Home & Garden,West
+2023-07-28,2781,Sports,North
+2023-07-29,4066,Food & Beverage,South
+2023-07-30,4274,Electronics,East
+2023-07-31,3663,Clothing,West
+2023-08-01,2617,Home & Garden,North
+2023-08-02,3094,Sports,South
+2023-08-03,4219,Food & Beverage,East
+2023-08-04,4062,Electronics,West
+2023-08-05,3079,Clothing,North
+2023-08-06,2639,Home & Garden,South
+2023-08-07,3077,Sports,East
+2023-08-08,3721,Food & Beverage,West
+2023-08-09,4455,Electronics,North
+2023-08-10,3236,Clothing,South
+2023-08-11,2459,Home & Garden,East
+2023-08-12,2899,Sports,West
+2023-08-13,3771,Food & Beverage,North
+2023-08-14,4226,Electronics,South
+2023-08-15,2913,Clothing,East
+2023-08-16,2636,Home & Garden,West
+2023-08-17,3137,Sports,North
+2023-08-18,3886,Food & Beverage,South
+2023-08-19,4196,Electronics,East
+2023-08-20,3248,Clothing,West
+2023-08-21,2442,Home & Garden,North
+2023-08-22,2767,Sports,South
+2023-08-23,3473,Food & Beverage,East
+2023-08-24,4139,Electronics,West
+2023-08-25,3258,Clothing,North
+2023-08-26,2518,Home & Garden,South
+2023-08-27,2691,Sports,East
+2023-08-28,3290,Food & Beverage,West
+2023-08-29,3751,Electronics,North
+2023-08-30,3239,Clothing,South
+2023-08-31,2247,Home & Garden,East
+2023-09-01,2789,Sports,West
+2023-09-02,3482,Food & Beverage,North
+2023-09-03,4282,Electronics,South
+2023-09-04,3120,Clothing,East
+2023-09-05,2675,Home & Garden,West
+2023-09-06,2759,Sports,North
+2023-09-07,3244,Food & Beverage,South
+2023-09-08,3795,Electronics,East
+2023-09-09,3342,Clothing,West
+2023-09-10,2660,Home & Garden,North
+2023-09-11,2876,Sports,South
+2023-09-12,3961,Food & Beverage,East
+2023-09-13,3911,Electronics,West
+2023-09-14,3179,Clothing,North
+2023-09-15,2557,Home & Garden,South
+2023-09-16,2760,Sports,East
+2023-09-17,3767,Food & Beverage,West
+2023-09-18,4224,Electronics,North
+2023-09-19,2838,Clothing,South
+2023-09-20,2456,Home & Garden,East
+2023-09-21,2853,Sports,West
+2023-09-22,3487,Food & Beverage,North
+2023-09-23,3621,Electronics,South
+2023-09-24,2695,Clothing,East
+2023-09-25,2253,Home & Garden,West
+2023-09-26,2779,Sports,North
+2023-09-27,3330,Food & Beverage,South
+2023-09-28,3981,Electronics,East
+2023-09-29,2945,Clothing,West
+2023-09-30,2350,Home & Garden,North
+2023-10-01,2493,Sports,South
+2023-10-02,3417,Food & Beverage,East
+2023-10-03,3998,Electronics,West
+2023-10-04,3247,Clothing,North
+2023-10-05,2631,Home & Garden,South
+2023-10-06,2779,Sports,East
+2023-10-07,3616,Food & Beverage,West
+2023-10-08,3911,Electronics,North
+2023-10-09,2991,Clothing,South
+2023-10-10,2469,Home & Garden,East
+2023-10-11,2738,Sports,West
+2023-10-12,3006,Food & Beverage,North
+2023-10-13,4000,Electronics,South
+2023-10-14,3164,Clothing,East
+2023-10-15,2510,Home & Garden,West
+2023-10-16,2741,Sports,North
+2023-10-17,3491,Food & Beverage,South
+2023-10-18,4363,Electronics,East
+2023-10-19,3158,Clothing,West
+2023-10-20,2515,Home & Garden,North
+2023-10-21,2788,Sports,South
+2023-10-22,3447,Food & Beverage,East
+2023-10-23,3780,Electronics,West
+2023-10-24,3165,Clothing,North
+2023-10-25,2621,Home & Garden,South
+2023-10-26,3187,Sports,East
+2023-10-27,3671,Food & Beverage,West
+2023-10-28,4313,Electronics,North
+2023-10-29,3109,Clothing,South
+2023-10-30,2737,Home & Garden,East
+2023-10-31,2778,Sports,West
+2023-11-01,3605,Food & Beverage,North
+2023-11-02,4240,Electronics,South
+2023-11-03,3146,Clothing,East
+2023-11-04,2955,Home & Garden,West
+2023-11-05,3078,Sports,North
+2023-11-06,3260,Food & Beverage,South
+2023-11-07,4332,Electronics,East
+2023-11-08,3256,Clothing,West
+2023-11-09,2728,Home & Garden,North
+2023-11-10,3111,Sports,South
+2023-11-11,3731,Food & Beverage,East
+2023-11-12,3858,Electronics,West
+2023-11-13,3188,Clothing,North
+2023-11-14,2878,Home & Garden,South
+2023-11-15,3288,Sports,East
+2023-11-16,4068,Food & Beverage,West
+2023-11-17,4740,Electronics,North
+2023-11-18,3100,Clothing,South
+2023-11-19,2928,Home & Garden,East
+2023-11-20,2862,Sports,West
+2023-11-21,4084,Food & Beverage,North
+2023-11-22,4496,Electronics,South
+2023-11-23,3316,Clothing,East
+2023-11-24,3149,Home & Garden,West
+2023-11-25,3307,Sports,North
+2023-11-26,3526,Food & Beverage,South
+2023-11-27,4591,Electronics,East
+2023-11-28,3452,Clothing,West
+2023-11-29,2949,Home & Garden,North
+2023-11-30,3204,Sports,South
+2023-12-01,4191,Food & Beverage,East
+2023-12-02,4321,Electronics,West
+2023-12-03,3697,Clothing,North
+2023-12-04,3239,Home & Garden,South
+2023-12-05,3216,Sports,East
+2023-12-06,4062,Food & Beverage,West
+2023-12-07,4756,Electronics,North
+2023-12-08,3605,Clothing,South
+2023-12-09,3143,Home & Garden,East
+2023-12-10,3423,Sports,West
+2023-12-11,3937,Food & Beverage,North
+2023-12-12,5182,Electronics,South
+2023-12-13,3927,Clothing,East
+2023-12-14,3096,Home & Garden,West
+2023-12-15,3384,Sports,North
+2023-12-16,4052,Food & Beverage,South
+2023-12-17,5170,Electronics,East
+2023-12-18,3851,Clothing,West
+2023-12-19,3246,Home & Garden,North
+2023-12-20,3525,Sports,South
+2023-12-21,4391,Food & Beverage,East
+2023-12-22,4990,Electronics,West
+2023-12-23,4082,Clothing,North
+2023-12-24,3225,Home & Garden,South
+2023-12-25,3750,Sports,East
+2023-12-26,4490,Food & Beverage,West
+2023-12-27,5093,Electronics,North
+2023-12-28,3896,Clothing,South
+2023-12-29,3190,Home & Garden,East
+2023-12-30,3589,Sports,West
+2023-12-31,4281,Food & Beverage,North
